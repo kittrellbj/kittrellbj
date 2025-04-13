@@ -1,5 +1,7 @@
 ### Brian Kittrell
 
+I am a computer scientist, artificial intelligence researcher and engineer, and software systems architect.
+
 🔭 I’m currently working on Vai, an AI systems platform for organizations who want local/offline artificial intelligence for data privacy.
 
 🌱 I’m currently working on my Master of Science in Computer Science from the Georgia Institute of Technology.
