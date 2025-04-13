@@ -1,6 +1,7 @@
 ### Brian Kittrell
 
 🔭 I’m currently working on Vai, an AI systems platform for organizations who want local/offline artificial intelligence for data privacy.
+
 🌱 I’m currently working on my Master of Science in Computer Science from the Georgia Institute of Technology.
 
 <!--
