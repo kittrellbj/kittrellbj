@@ -1,4 +1,4 @@
-### Brian Kittrell
+### Hello!
 
 I am a computer scientist, artificial intelligence researcher and engineer, and software systems architect.
 
