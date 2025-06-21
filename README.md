@@ -4,7 +4,7 @@ I am a computer scientist, artificial intelligence researcher and engineer, and 
 
 🔭 I’m currently working on Vai, an AI systems platform for organizations who want local/offline artificial intelligence for data privacy.
 
-🌱 I’m currently working on my Master of Science in Computer Science from the Georgia Institute of Technology. (progress 70%, graduation target December, 2025)
+🌱 I’m currently working on my Master of Science in Computer Science from the Georgia Institute of Technology. (progress 88%, graduation target December, 2025)
 
 <!--
 **kittrellbj/kittrellbj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
