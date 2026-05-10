@@ -4,7 +4,7 @@ I am a computer scientist, artificial intelligence researcher and engineer, and 
 
 🎶 I make music. https://www.youtube.com/@lnbk
 
-🔭 I’m currently working on Vai, an AI systems platform for organizations who want local/offline artificial intelligence for data privacy.
+🔭 I’m currently working on Vai, an AI systems platform.
 
 🌱 I’ve completed my Master of Science in Computer Science from the Georgia Institute of Technology.
 
