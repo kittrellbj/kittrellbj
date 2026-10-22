@@ -71,8 +71,9 @@ interpreting blueprint performances — not random generators.
 
 ## 📚 Books
 
-Novelist publishing through the **Late Nite Books** imprint — fantasy, horror, and
-near-future science fiction.
+Bestselling novelist with **over half a million copies in global distribution**,
+publishing through the **Late Nite Books** imprint — fantasy, horror, and near-future
+science fiction.
 
 - **The Mages of Bloodmyr** — fantasy/horror series
 - **The Survivor Chronicles** — post-apocalyptic series
