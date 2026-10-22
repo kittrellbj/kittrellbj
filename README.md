@@ -48,8 +48,8 @@ ends, Cloudflare Workers and Pages, Node services, and in-browser code execution
 
 ## 🎶 Music
 
-I write and produce music — Americana, Gothic Americana, singer-songwriter, folk, and
-alt-country — released through Exteran Studios.
+I write and produce music — Hard Rock, Grunge, Americana, Gothic Americana,
+singer-songwriter, folk, Christian, and alt-country — released through Exteran Studios.
 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1AflDnaTl9pMIEhq3JzNNV)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=applemusic&logoColor=white)](https://music.apple.com/us/artist/brian-kittrell/1851629363)
