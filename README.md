@@ -27,7 +27,7 @@ this profile.
 retrieval, and applied LLM engineering — currently focused on **[Vai](https://vai.ai)**
 (below).
 
-**Web platforms.** Nine live sites, built and operated end to end (below) — Astro front
+**Web platforms.** Ten live sites, built and operated end to end (below) — Astro front
 ends, Cloudflare Workers and Pages, Node services, and in-browser code execution.
 
 ---
@@ -64,6 +64,7 @@ that do persistent, structured work rather than disposable chat.
 | Site | What it is |
 |---|---|
 | **[exteran.com](https://exteran.com)** | Exteran Studios — software, books, and music |
+| **[vai.ai](https://vai.ai)** | Vai — the agent platform above: cloud, hybrid, or fully self-hosted |
 | **[codersrock.com](https://codersrock.com)** | Free coding practice that runs entirely in your browser. No account, no streaks, no leaderboard |
 | **[learntowritecode.com](https://learntowritecode.com)** | Learn concepts first, express them in pseudocode, then see the same logic in real languages |
 | **[thebiblebible.com](https://thebiblebible.com)** | Free full-text Bible reference across multiple public-domain translations, with clean permanent links |
