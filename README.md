@@ -6,7 +6,8 @@ I build production software systems, research and apply AI, and write the books 
 music in between. Founder of [Exteran Studios](https://exteran.com), an independent
 creative studio working across software, books, and music.
 
-- 🔭 Currently building **Vai**, an AI systems platform
+- 🔭 Currently building **[Vai](https://vai.ai)** — a provider- and deployment-independent
+  platform for AI agents that do real technical work
 - 🎓 **M.S. in Computer Science**, Georgia Institute of Technology — specialization in Artificial Intelligence
 - 🏗️ Founder of **[Exteran Studios](https://exteran.com)** (est. February 3, 2022)
 - 📍 Jackson, Mississippi
@@ -22,11 +23,39 @@ SQL Server data layers, and the Windows/Linux deployment tooling that keeps them
 in the field. Most of this work lives in private repositories, so it never shows up on
 this profile.
 
-**AI systems.** Agent orchestration, retrieval, and applied LLM engineering — currently
-focused on **Vai**, an AI systems platform.
+**AI systems.** Agent orchestration, durable task execution, policy and permissions,
+retrieval, and applied LLM engineering — currently focused on **[Vai](https://vai.ai)**
+(below).
 
 **Web platforms.** Nine live sites, built and operated end to end (below) — Astro front
 ends, Cloudflare Workers and Pages, Node services, and in-browser code execution.
+
+---
+
+## 🤖 Vai
+
+**[Vai](https://vai.ai)** — *Versatile Agentic Interface*. One agent platform — cloud,
+hybrid, or fully your own.
+
+A provider- and deployment-independent platform for building and running AI agents that
+do real technical work, through natural conversation and structured, durable tasks, under
+layered human-defined permissions. Aimed at developers and technical teams who need agents
+that do persistent, structured work rather than disposable chat.
+
+- **Edition parity.** Self-hosted runs the same logical core as cloud and hybrid — no
+  feature tiers, no required connectivity back to Vai.
+  - *Cloud* — a managed deployment of the same core, hosted and operated by Vai
+  - *Hybrid* — a Vai-managed control plane with your own execution nodes doing the work
+  - *Self-hosted* — customer-run, every core function, zero network dependency on Vai
+- **Model-neutral by design.** Built in C#/.NET to run local, cloud, and
+  customer-supplied models side by side instead of locking to a single provider.
+- **Durable, not ephemeral.** Structured long-running tasks are the unit of work, not
+  disposable sessions.
+
+*Early in development — no release date yet.* A product of
+[Exteran Studios](https://exteran.com).
+
+→ **[vai.ai](https://vai.ai)**
 
 ---
 
